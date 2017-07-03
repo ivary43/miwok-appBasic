@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb6265cf8d2510fee462a9ba2c751db624bcc397">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e7a01f73b5367a7b344f4ebee3f98b5eeafce9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_76f6bf7343bf88a987e7779db966a7998525f75c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/c1d92556e8aa756b5243084ed21535502b840c95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39c223b663aee231f2469ff92506ce2c139351cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/1de93b9010a678eb68564da1855adc2dc0d20c28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57c1409902958a774edbbea6d9ba76481bd285b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9725fa7911a4b921b4b76fd58ca97d4b9a07859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/bd1c28f0a06cd60391f82841f47fdb470abdb5b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0f0b4e2d57a4a027a5af036624f2c378d1e0f41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/725fb23dd30a7379a2a18a06dbc4ea6c6c9ca5bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cdef761ed80367c3bcaaf1f445ef28b554d4a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_af609b7cb6fb522dae272be47808a9cbe7ca4479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/5acca92eed2f36f5439cd65b30e45732b8d52b6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_740b0a9608d0944dcb73d54dbce61514361d345f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/53694e95c68b4a6d53d6d1c237f1a2f31dc9060a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b54b298c107372ae9175e60be57566c6204e17de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/5acca92eed2f36f5439cd65b30e45732b8d52b6e/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_24e5025ccc71af59bd7e4a51a22a0c472756b08c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manish/.android/build-cache/0d6eb26c47a64362cfab702ec0073014fe566b9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/manish/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_730061f34f9637efcb8c93e7d27ed1562d3fafc6/classes.dex" />
+    </item>
+
+</items>

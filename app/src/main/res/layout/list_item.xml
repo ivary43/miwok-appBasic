@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This layout is used as a child view to populate the Arrayadapter
+  this is populated in the parent view -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="@dimen/list_item_height"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/tan_background"
+
+>
+    <ImageView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:id="@+id/number_image_view"
+
+        android:background="#FFF7DA"
+
+
+        />
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/number_image_view"
+        android:id="@+id/root_linearView"
+        android:background="#FD8E09"
+    >
+
+    <TextView
+        android:id="@+id/miwokTransaltion"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+
+        android:layout_weight="1"
+
+        android:gravity="bottom"
+        android:layout_marginLeft="16dp"
+
+        android:textColor="#FFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:layout_marginLeft="16dp"
+        android:layout_below="@id/miwokTransaltion"
+        android:textSize="18sp"
+        android:id="@+id/defaultTranslation"
+        android:textColor="#FFF"/>
+
+
+        <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="16dp"
+                    android:src="@drawable/ic_play_arrow_black_24dp" />
+
+        </RelativeLayout>
+
+
+
+</RelativeLayout>
+
+
